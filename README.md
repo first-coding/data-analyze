@@ -14,3 +14,6 @@ I would appreciate it.
 Due to the configuration of the computer,there is insufficient memory,
 and only part of the data is extracted for processing in some places.
 Therefore,there will be some defects in the recommendation based on the collaborative filtering algorithm
+
+
+By the way,the previous analysis is relatively simple,so skip to the following for the full analysis
